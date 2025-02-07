@@ -23,7 +23,7 @@ spotipy
 tgcrypto
 unidecode
 uvloop
-Yea dal>=2025.01.15
+Yeadal>=2025.01.15
 youtube-search
 youtube-search-python
 httpx[http2]==0.27.2
